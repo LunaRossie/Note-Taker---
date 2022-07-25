@@ -1,10 +1,47 @@
-# Note-Taker---
+## Note-Taker---
 
-Heroku
+Table of Contents
+# Description
+# Instruction
+# Github 
+# Deployed Website
+# Video Link
+# Questions
+
+## Description
+
+The project was designed for a Note Taker application using HTML, CSS, and JavaScript. The application can be used to write, delete, and save notes. The application allows the users to keep track of information that can be available when needed.
+
+## Instruction
+
+The user must create a basic repository including gitignore and MIT License. The user then needs to clone the repo to vscode. The app can be deployed to Heroku.
+
+## Github
+
+https://github.com/LunaRossie/Note-Taker---
+
+## Deployed Website
+
+
+## Video Link
+
+
+
+## Image source
+
+ <img src="https://i.ytimg.com/vi/9kjX0nCyzJg/maxresdefault.jpg"
+ 
+
+## Heroku
 https://dashboard.heroku.com/apps/protected-beach-87248/settings
 
-Heroku git URL
+
 https://git.heroku.com/protected-beach-87248.git
+
+
+## Questions
+
+If you have any questions regarding this project, please reach out via email "Terminalbash2022@outlook.com". https://github.com/LunaRossie/Note-Taker---
 
 
 The following topics will be covered in this unit:
