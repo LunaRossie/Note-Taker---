@@ -12,7 +12,7 @@ Table of Contents
 
 ## Description
 
-The project was designed for a Note Taker application using HTML, CSS, and JavaScript. The application can be used to write, delete, and save notes. The application allows the users to keep track of information that can be available when needed.
+The project was designed for a Note Taker application using HTML, CSS, JavaScript, and Express.js. The application can be used to write, delete, and save notes. The application allows the users to keep track of information that can be available when needed.
 
 ## Instruction
 
