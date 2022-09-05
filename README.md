@@ -24,10 +24,12 @@ https://github.com/LunaRossie/Note-Taker---
 
 ## Deployed Website
 
+https://lunarossie.github.io/Note-Taker---/
+
 
 ## Video Link
 
-
+https://www.youtube.com/watch?v=0CqNJrMBwEo
 
 ## Image source
 
